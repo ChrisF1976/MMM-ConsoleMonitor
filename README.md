@@ -14,7 +14,7 @@ A MagicMirror² module that monitors and displays JavaScript console errors and 
 1. Navigate to your MagicMirror `modules` directory:
 ```bash
 cd ~/MagicMirror/modules
-git clone https://github.com/YOUR_USERNAME/MMM-ConsoleMonitor.git
+git clone https://github.com/ChrisF1976/MMM-ConsoleMonitor.git
 ```
 
 2. Add the module to your config/config.js file:
