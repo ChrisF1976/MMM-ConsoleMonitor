@@ -30,6 +30,7 @@ git clone https://github.com/YOUR_USERNAME/MMM-ConsoleMonitor.git
 
 ### Configuration Options
 | Option | Default | Description |
+|--------|---------|-------------|
 | `maxEntries` | 10 | Maximum number of entries to display |
 
 ## Usage
