@@ -1,0 +1,27 @@
+.console-monitor {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.console-monitor ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.console-monitor li {
+    margin: 5px 0;
+    padding: 5px;
+}
+
+.console-monitor li.error {
+    color: red;
+}
+
+.console-monitor li.warn {
+    color: yellow;
+}
