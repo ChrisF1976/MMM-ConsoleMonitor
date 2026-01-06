@@ -28,8 +28,7 @@ git clone https://github.com/YOUR_USERNAME/MMM-ConsoleMonitor.git
 },
 ```
 
-## Configuration Options
-
+### Configuration Options
 | Option | Default | Description |
 | `maxEntries` | 10 | Maximum number of entries to display |
 
@@ -37,7 +36,7 @@ git clone https://github.com/YOUR_USERNAME/MMM-ConsoleMonitor.git
 
 Once installed and configured, the module will automatically start monitoring your console. Any console.error() or console.warn() calls will be displayed in the module window.
 
-## Display Format
+### Display Format
 
  - ERRORS: Red text ([ERROR] message)
  - WARNINGS: Yellow text ([WARN] message)
